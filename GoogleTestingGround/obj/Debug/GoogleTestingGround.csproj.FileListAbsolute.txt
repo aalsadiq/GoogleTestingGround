@@ -1,0 +1,7 @@
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\bin\Debug\GoogleTestingGround.exe.config
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\bin\Debug\GoogleTestingGround.exe
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\bin\Debug\GoogleTestingGround.pdb
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\obj\Debug\GoogleTestingGround.csprojResolveAssemblyReference.cache
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\obj\Debug\GoogleTestingGround.csproj.CoreCompileInputs.cache
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\obj\Debug\GoogleTestingGround.exe
+C:\Users\ahmedalsadiq\source\repos\GoogleTestingGround\GoogleTestingGround\obj\Debug\GoogleTestingGround.pdb
